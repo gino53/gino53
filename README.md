@@ -1,13 +1,13 @@
-<h1 align="center"> Hi I'm Gino 🧑‍💻 </h1>
-
-<h3 align="center">A passionate frontend and backend developer from France</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gino-castagna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gino-castagna" height="30" width="40" /></a>
+<p align="center">
+<img src="https://github.com/gino53/gino53/blob/27ba014a17bf136e2d454631c7c0c67170705f46/GINO.gif" alt="code-font" height="50%" width="50%" />
 </p>
 
-<img src="https://github.com/gino53/gino53/blob/c4742bc1661e4fc55ffc6e5ae8c5826bc292d9d0/code.gif" alt="code-font" align="right" height="50%" width="50%" />
+<p align="center">
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=SxfkdtxwqNBgVCshZhDQFfJLvvdWQhzjHGmPSsPJWWsVZmPMbHqNdsPdfrkSSlVzmkFdxzrwBLKnQQzNqpGknPpgGsdFRCZzfWhBHMXDCgmWtqVJPWg" target="blank"><img src="https://www.svgrepo.com/show/283099/mail.svg" alt="linkedin" height="40" width="100" /></a>
+<a href="https://linkedin.com/in/gino-castagna" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
+</p>
+
+---
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -18,6 +18,7 @@
 <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/354180/php.svg" alt="php" width="40" height="40"/> 
 </p>
+
 <p align="center">
 <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/>
@@ -34,17 +35,14 @@
 <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="vite" width="40" height="40"/>
 </p>
 
-<h3 align="left">My projects:</h3>
+<h3 align="center">My projects:</h3>
 
-<p align="left">
-<a href="https://ginoportfolio.netlify.app/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/C4E2DAQGAUNPgI1eUJA/profile-treasury-image-shrink_480_480/0/1669903159873?e=1675623600&v=beta&t=9atSIRel7SzBEIlBc2mztDEGig5LTS58n0QbTK2uCeA" alt="portfolio" height="20%" width="20%" /></a>
-</p>
+<h3>Portfolio</h3>
+<a href="https://ginoportfolio.netlify.app/" target="blank">
+<img src="https://media.licdn.com/dms/image/C4E2DAQGAUNPgI1eUJA/profile-treasury-image-shrink_480_480/0/1669903159873?e=1675623600&v=beta&t=9atSIRel7SzBEIlBc2mztDEGig5LTS58n0QbTK2uCeA" alt="portfolio" height="400px" width="320px" />
+</a>
 
-<p align="left">
-<h3>YU</h3>
-<a href="https://yu-ai.vercel.app/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/C4E2DAQFT9n1c7HvQEg/profile-treasury-image-shrink_8192_8192/0/1674845058988?e=1675623600&v=beta&t=nkUgKVi9ujFCq_C1UWVT6_X4mvJecKnpwSNc44Qh-7s" alt="yu" height="20%" width="20%" /></a>
-</p>
-
-<p align="right">
-<img src="https://www.svgrepo.com/show/374167/vite.svg" alt="vite" width="40" height="40"/>
-</p>
+<h3 align="right">YU</h3>
+<a href="https://yu-ai.vercel.app/" target="blank">
+<img src="https://media.licdn.com/dms/image/C4E2DAQFT9n1c7HvQEg/profile-treasury-image-shrink_8192_8192/0/1674845058988?e=1675623600&v=beta&t=nkUgKVi9ujFCq_C1UWVT6_X4mvJecKnpwSNc44Qh-7s" alt="yu" align="right" height="400px" width="320px" />
+</a>
