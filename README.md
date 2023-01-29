@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate frontend and backend developer from France</h3>
 
-<h3 align="center"><a href="https://ginoportfolio.netlify.app/" target="_blank">Portfolio</a></h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gino-castagna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gino-castagna" height="30" width="40" /></a>
@@ -33,5 +31,20 @@
 </p>
 
 <p align="center">
+<img src="https://www.svgrepo.com/show/374167/vite.svg" alt="vite" width="40" height="40"/>
+</p>
+
+<h3 align="left">My projects:</h3>
+
+<p align="left">
+<a href="https://ginoportfolio.netlify.app/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/C4E2DAQGAUNPgI1eUJA/profile-treasury-image-shrink_480_480/0/1669903159873?e=1675623600&v=beta&t=9atSIRel7SzBEIlBc2mztDEGig5LTS58n0QbTK2uCeA" alt="portfolio" height="20%" width="20%" /></a>
+</p>
+
+<p align="left">
+<h3>YU</h3>
+<a href="https://yu-ai.vercel.app/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/C4E2DAQFT9n1c7HvQEg/profile-treasury-image-shrink_8192_8192/0/1674845058988?e=1675623600&v=beta&t=nkUgKVi9ujFCq_C1UWVT6_X4mvJecKnpwSNc44Qh-7s" alt="yu" height="20%" width="20%" /></a>
+</p>
+
+<p align="right">
 <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="vite" width="40" height="40"/>
 </p>
