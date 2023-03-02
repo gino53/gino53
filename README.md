@@ -39,7 +39,7 @@
 
 <h3>Portfolio</h3>
 <a href="https://ginoportfolio.netlify.app/" target="blank">
-<img src="https://media.licdn.com/dms/image/C4E2DAQGAUNPgI1eUJA/profile-treasury-image-shrink_480_480/0/1669903159873?e=1675623600&v=beta&t=9atSIRel7SzBEIlBc2mztDEGig5LTS58n0QbTK2uCeA" alt="portfolio" height="400px" width="320px" />
+<img src="https://github.com/gino53/gino53/blob/1cc2bea7a73b24a5da789c0e434e201daa04d67a/Portfolio.png" alt="portfolio" height="600px" width="600px" />
 </a>
 
 <h3 align="right">YU</h3>
