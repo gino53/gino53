@@ -44,5 +44,5 @@
 
 <h3 align="right">YU</h3>
 <a href="https://yu-ai.vercel.app/" target="blank">
-<img src="https://media.licdn.com/dms/image/C4E2DAQFT9n1c7HvQEg/profile-treasury-image-shrink_8192_8192/0/1674845058988?e=1675623600&v=beta&t=nkUgKVi9ujFCq_C1UWVT6_X4mvJecKnpwSNc44Qh-7s" alt="yu" align="right" height="400px" width="320px" />
+<img src="https://github.com/gino53/gino53/blob/d06886210e987bae25675535526a5e19cdbb9329/YU.png" alt="yu" align="right" height="600px" width="600px" />
 </a>
