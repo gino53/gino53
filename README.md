@@ -46,3 +46,8 @@
 <a href="https://yu-ai.vercel.app/" target="blank">
 <img src="https://github.com/gino53/gino53/blob/d06886210e987bae25675535526a5e19cdbb9329/YU.png" alt="yu" align="right" height="600px" width="600px" />
 </a>
+
+<h3>MétéApp</h3>
+<a href="https://meteapp.vercel.app/" target="blank">
+<img src="https://github.com/gino53/gino53/blob/d06886210e987bae25675535526a5e19cdbb9329/YU.png" alt="yu" height="600px" width="600px" />
+</a>
