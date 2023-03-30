@@ -38,7 +38,7 @@
 <h3 align="center">My projects:</h3>
 
 <h3>Portfolio</h3>
-<a href="https://ginoportfolio.netlify.app/" target="blank">
+<a href="https://ginoportfolio.netlify.app/" target="_blank">
 <img src="https://github.com/gino53/gino53/blob/1cc2bea7a73b24a5da789c0e434e201daa04d67a/Portfolio.png" alt="portfolio" height="320px" width="345px" />
 </a>
 
