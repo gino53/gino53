@@ -14,9 +14,9 @@
 <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" alt="vsc" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/373669/html.svg" alt="html5" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css3" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/374061/sass.svg" alt="sass" width="40" height="40"/> 
+<img src="https://www.svgrepo.com/show/374061/sass.svg" alt="sass" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/354180/php.svg" alt="php" width="40" height="40"/> 
 </p>
 
 <p align="center">
@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-<img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/>
+<img src="http://store-images.s-microsoft.com/image/apps.61369.14342226520959543.1cbebe39-d589-4ccf-8ed5-dbdd212b1080.0a1c113c-c09b-4b2e-900d-c5a12bae0cc2" alt="lunacy" width="40" height="40"/>
+<img src="https://beastie.cl/wp-content/uploads/2021/03/Canva-Logo-1100x1100.jpg" alt="canva" width="40" height="40"/>
 </p>
 
 <p align="center">
