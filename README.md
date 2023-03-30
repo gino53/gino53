@@ -42,17 +42,21 @@
 <img src="https://github.com/gino53/gino53/blob/1cc2bea7a73b24a5da789c0e434e201daa04d67a/Portfolio.png" alt="portfolio" height="320px" width="345px" />
 </a>
 
+<div align="right">
 <h3>Gen:</h3>
 <a href="https://gentwopoints.vercel.app/" target="blank">
 <img src="https://github.com/gino53/gino53/blob/93363ed30754ca4f61ea383e314311e509a595f7/Gen.png" alt="gen:" height="320px" width="320px" />
 </a>
+</div>
 
 <h3>YU</h3>
 <a href="https://yu-ai.vercel.app/" target="blank">
 <img src="https://github.com/gino53/gino53/blob/d06886210e987bae25675535526a5e19cdbb9329/YU.png" alt="yu" height="320px" width="320px" />
 </a>
 
+<div align="right">
 <h3>MétéApp</h3>
 <a href="https://meteapp.vercel.app/" target="blank">
 <img src="https://github.com/gino53/gino53/blob/e7114865b92dc393c8b3c6643ff3727db3fae4c2/M%C3%A9t%C3%A9App.png" alt="météapp" height="320px" width="320px" />
 </a>
+</div>
