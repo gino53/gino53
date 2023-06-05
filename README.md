@@ -37,9 +37,9 @@
 
 <h3 align="center">My projects:</h3>
 
-<h3>Portfolio</h3>
+<h3>GC-Portfolio</h3>
 <a href="https://gc-portfolio.vercel.app/" target="blank">
-<img src="" alt="portfolio" height="320px" width="345px" />
+<img src="https://github.com/gino53/gino53/blob/2d2d51794e12bacca3279ccabf7cd65f038ded5d/GC-Portfolio.png" alt="portfolio" height="320px" width="345px" />
 </a>
 
 <div align="right">
