@@ -11,12 +11,12 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="threejs" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/373669/html.svg" alt="html5" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css3" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/374061/sass.svg" alt="sass" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/>
+<img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="threejs" width="40" height="40"/>
 </p>
 
 <p align="center">
