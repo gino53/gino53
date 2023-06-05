@@ -37,15 +37,19 @@
 
 <h3 align="center">My projects:</h3>
 
+---
+
+<h3 align="center">3D projects</h3>
+
 <h3>GC-Portfolio</h3>
 <a href="https://gc-portfolio.vercel.app/" target="blank">
-<img src="https://github.com/gino53/gino53/blob/2d2d51794e12bacca3279ccabf7cd65f038ded5d/GC-Portfolio.png" alt="portfolio" height="320px" width="345px" />
+<img src="https://github.com/gino53/gino53/blob/8be6f8ffc6aa50de01d9f79e4158828f041b7675/GC-Portfolio.png" alt="gc-portfolio" height="320px" width="345px" />
 </a>
 
 <div align="right">
-<h3>Portfolio(old)</h3>
-<a href="https://ginoportfolio.netlify.app/" target="blank">
-<img src="https://github.com/gino53/gino53/blob/1cc2bea7a73b24a5da789c0e434e201daa04d67a/Portfolio.png" alt="portfolio(old)" height="320px" width="345px" />
+<h3>Old Portfolio 3D version</h3>
+<a href="https://portfolio3d-gino-castagna.vercel.app/" target="blank">
+<img src="https://github.com/gino53/gino53/blob/8be6f8ffc6aa50de01d9f79e4158828f041b7675/Old%20portfolio%203D%20version.png" alt="old portfolio 3D version" height="320px" width="345px" />
 </a>
 </div>
 
@@ -53,6 +57,41 @@
 <a href="https://marble-r.vercel.app/" target="blank">
 <img src="https://github.com/gino53/gino53/blob/bdf4572dacf46e7922159f62689ddd452313bb34/Marble%20Race.png" alt="marble race" height="320px" width="345px" />
 </a>
+
+<div align="right">
+<h3>Ghost house</h3>
+<a href="https://ghost-house-3d.vercel.app/" target="blank">
+<img src="https://github.com/gino53/gino53/blob/8be6f8ffc6aa50de01d9f79e4158828f041b7675/Haunted%20House.png" alt="ghost house" height="320px" width="345px" />
+</a>
+</div>
+
+<h3>Galaxy generator</h3>
+<a href="https://galaxie-generator-3d.vercel.app/" target="blank">
+<img src="https://github.com/gino53/gino53/blob/8be6f8ffc6aa50de01d9f79e4158828f041b7675/Galaxy.png" alt="galaxy generator" height="320px" width="345px" />
+</a>
+
+<div align="right">
+<h3>Sea generator</h3>
+<a href="https://sea-generator-3d.vercel.app/" target="blank">
+<img src="https://github.com/gino53/gino53/blob/cccdefdc88910d38a4f663e933c24804176c2a82/Sea.png" alt="sea generator" height="320px" width="345px" />
+</a>
+</div>
+
+<h3>Portal</h3>
+<a href="https://portal-scene-3d.vercel.app/#" target="blank">
+<img src="https://github.com/gino53/gino53/blob/cccdefdc88910d38a4f663e933c24804176c2a82/Portal.png" alt="sea generator" height="320px" width="345px" />
+</a>
+
+---
+
+<h3 align="center">Web projects</h3>
+
+<div align="right">
+<h3>Old Portfolio</h3>
+<a href="https://ginoportfolio.netlify.app/" target="blank">
+<img src="https://github.com/gino53/gino53/blob/1cc2bea7a73b24a5da789c0e434e201daa04d67a/Portfolio.png" alt="old portfolio" height="320px" width="345px" />
+</a>
+</div>
 
 <div align="right">
 <h3>Gen:</h3>
