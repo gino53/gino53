@@ -11,7 +11,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" alt="vsc" width="40" height="40"/>
+<img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="threejs" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/373669/html.svg" alt="html5" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css3" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/374061/sass.svg" alt="sass" width="40" height="40"/>
@@ -21,7 +21,7 @@
 
 <p align="center">
 <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/353396/angular-icon.svg" alt="angular" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mongodb" width="40" height="40"/>
 </p>
@@ -86,12 +86,10 @@
 
 <h3 align="center">Web projects</h3>
 
-<div align="right">
 <h3>Old Portfolio</h3>
 <a href="https://ginoportfolio.netlify.app/" target="blank">
 <img src="https://github.com/gino53/gino53/blob/1cc2bea7a73b24a5da789c0e434e201daa04d67a/Portfolio.png" alt="old portfolio" height="320px" width="345px" />
 </a>
-</div>
 
 <div align="right">
 <h3>Gen:</h3>
